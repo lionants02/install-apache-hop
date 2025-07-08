@@ -1,2 +1,2 @@
-curl https://www.apache.org/dyn/closer.cgi?filename=hop/2.14.0/apache-hop-client-2.14.0.zip&action=download -o apache-hop.zip
+curl https://dlcdn.apache.org/hop/2.14.0/apache-hop-client-2.14.0.zip -o apache-hop.zip
 unzip apache-hop.zip
